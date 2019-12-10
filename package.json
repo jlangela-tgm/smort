@@ -1,0 +1,21 @@
+{
+  "name": "smort",
+  "version": "1.0.0",
+  "description": "Social Media Organisation and Reporting Tool",
+  "main": "app.js",
+  "dependencies": {
+    "bootstrap-vue": "^2.1.0",
+    "bootstrap": "^4.4.1",
+    "vue": "^2.6.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jlangela-tgm/smort"
+  },
+  "author": "Jan Langela",
+  "license": "ISC"
+}
